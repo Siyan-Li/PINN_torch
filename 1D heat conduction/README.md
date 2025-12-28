@@ -2,7 +2,7 @@
 
 The code in this folder is based on the one - dimensional heat conduction equation and implements the control of different boundary conditions, including Dirichlet, Neumann, and Robin boundary conditions.
 
-## One - Dimensional Heat Conduction Equation
+## One -Dimensional Heat Conduction Equation
 
 The one - dimensional heat conduction equation describes the heat conduction process over time in a one - dimensional space. Its general form is:
 
