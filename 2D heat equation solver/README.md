@@ -1,4 +1,4 @@
-# 2D Heat Equation Solver with Numerical and Physics-Informed Neural Network (PINN) Methods
+# 2D Heat Equation Solver with Numerical and Physics - Informed Neural Network (PINN) Methods
 
 This project contains two Python programs for solving the 2D heat equation using finite difference method and Physics-Informed Neural Networks (PINNs), with a particular focus on **constant heat source terms** and **Robin boundary conditions**. The project demonstrates how to generate high-fidelity numerical solutions and use PINNs to infer key physical parameters from known solutions.
 
