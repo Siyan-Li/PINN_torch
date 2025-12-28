@@ -1,7 +1,7 @@
 # PINN_torch
 
 ## Introduction
-This repository, "PINN_torch", records simple code examples of using PyTorch to solve fluid - related Physics - Informed Neural Networks (PINN) problems. PINN combines neural networks with physics laws, offering a new way to handle complex fluid - dynamic issues.
+This repository records simple code examples of using PyTorch to solve fluid - related Physics - Informed Neural Networks (PINN) problems. PINN combines neural networks with physics laws, offering a new way to handle complex fluid - dynamic issues.
 
 ### What are Physics - Informed Neural Networks (PINN)?
 In scenarios with limited data, most advanced machine - learning methods like deep, convolutional, or recurrent neural networks lack robustness and can't guarantee convergence. Yet, in fluid dynamics and other physical systems, there's a lot of **prior knowledge** that modern machine learning often ignores.
