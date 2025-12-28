@@ -7,7 +7,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-# 定义热传导方程的PINN模型
+# 定义热传导方程PINN模型
 class PINN(nn.Module):
     def __init__(self):
         super(PINN, self).__init__()
@@ -123,3 +123,4 @@ if __name__ == "__main__":
     plt.ylabel('u(x, t=0.5)')
     plt.title('PINN solution of the heat equation with Dirichlet BC')
     plt.show()
+
