@@ -1,4 +1,4 @@
-# Physics-Informed Neural Networks (PINNs) for Heat Equation Parameter Identification
+# Physics - Informed Neural Networks (PINNs) for Heat Equation Parameter Identification
 
 This repository contains two Python programs demonstrating the use of Physics-Informed Neural Networks (PINNs) to identify an unknown parameter in the heat equation. The goal is to verify whether PINNs can accurately recover the thermal conductivity coefficient α from known solutions, initial conditions, and boundary conditions.
 
