@@ -7,7 +7,7 @@ import torch.optim as optim
 import numpy as np
 import matplotlib.pyplot as plt
 
-# 检查 GPU 是否可用
+# 检查GPU是否可用
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 # 定义神经网络
@@ -181,4 +181,5 @@ while True:
         else:
             print("输入的数据不在 [0, 1] 范围内，请重新输入。")
     except ValueError:
+
         print("输入格式错误，请输入三个用空格分隔的数字。")
